@@ -1,1 +1,1 @@
-It is a script that prints the absolute path name 
+this scriptdisplayslist of your current directory.
