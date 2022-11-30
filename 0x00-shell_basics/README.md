@@ -1,1 +1,1 @@
-this script is to list in long format
+This script lists all files and directories in long format and hidden files as well.
