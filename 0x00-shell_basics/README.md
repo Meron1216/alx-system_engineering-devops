@@ -1,1 +1,1 @@
-this scriptdisplayslist of your current directory.
+this script is to list in long format
